@@ -1,0 +1,1 @@
+cinemaify is a web application built with React and Redux, allowing users to search for movies and TV shows, view popular, trending, and upcoming releases, and explore detailed information about each title. The platform features personalized recommendations and fine-tuned filters to enhance the user experience.
